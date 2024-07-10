@@ -1,6 +1,6 @@
 # medecine
 
-tentative numero 36 du projet transverse
+Projet de rappel de prise de médicament en Flutter et FireBase
 
 ## Getting Started
 
